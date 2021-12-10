@@ -1,0 +1,15 @@
+{
+  "description": "Mask Network is the portal to the new, open internet.",
+  "image": "https://raw.githubusercontent.com/andy-at-mask/MysteryBoxAsset/master/video/default.gif",
+  "name": "Mask NFT",
+  "traits": [
+    {
+      "trait_type": "power",
+      "value": "100"
+    },
+    {
+      "trait_type": "defence",
+      "value": "98"
+    }
+  ]
+}
