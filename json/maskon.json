@@ -1,0 +1,11 @@
+{
+  "description": "Mask Network is the portal to the new, open internet.",
+  "image": "https://raw.githubusercontent.com/andy-at-mask/MysteryBoxAsset/master/png/maskon.png",
+  "name": "MaskOn NFT",
+  "traits": [
+    {
+      "trait_type": "Style",
+      "value": "secret"
+    }
+  ]
+}
